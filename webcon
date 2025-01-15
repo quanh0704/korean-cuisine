@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Korean Cuisine</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fff5f5;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff6b6b;
+            color: white;
+            padding: 20px;
+        }
+        h1 {
+            margin: 0;
+        }
+        .content {
+            margin: 20px;
+            padding: 20px;
+        }
+        a {
+            text-decoration: none;
+            color: #ff6b6b;
+            font-weight: bold;
+        }
+        a:hover {
+            color: #d64545;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Explore the World of Korean Cuisine</h1>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fradiowave.com.na%2Fbest-korean-dishes-for-beginners%2F&psig=AOvVaw0RA97s3nTVQ88kwMvGHZvF&ust=1736989494396000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDwqKDE9ooDFQAAAAAdAAAAABAJ" alt="image">
+    </header>
+    <div class="content">
+        <p>Discover the rich and diverse flavors of Korean cuisine, from traditional dishes to modern fusion recipes.</p>
+        <p>Click the link below to dive into the delicious world of Korean food:</p>
+        <a href="https://quanh0704.github.io/korean-cuisine/amthuchanquoc" target="_blank">Visit the Korean Cuisine Website</a>
+    </div>
+
+</body>
+</html>
